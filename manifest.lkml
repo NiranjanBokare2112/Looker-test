@@ -3,7 +3,7 @@ application: conversational_chat {
   # Dev mode (live reload from Vite):
   #url: "http://localhost:8080/bundle.js"
   # Prod mode (uncomment after `npm run build` and replace url above):
-  file: "bundle.js"
+  file: "main.js"
 
 entitlements: {
   local_storage: yes
