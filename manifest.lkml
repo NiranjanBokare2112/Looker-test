@@ -1,7 +1,7 @@
 project_name: "ecom_test"
 
 application: conversational_chat {
-  label: "Conversational Chat for test_v2"
+  label: "Conversational test_v2"
 
   file: "main.js"
 
