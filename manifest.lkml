@@ -3,10 +3,6 @@ project_name: "ecom_test"
 application: conversational_chat {
   label: "Conversational Chat for test_v2"
 
-  # Dev mode (uncomment if needed)
-  # url: "http://localhost:8080/bundle.js"
-
-  # Production bundle
   file: "main.js"
 
   entitlements: {
